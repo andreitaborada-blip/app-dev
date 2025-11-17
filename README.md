@@ -1,2 +1,3 @@
-# app-dev
-My first repository.
+## app-dev
+**My Favorite Anime Series.**
+**One Piece**  is a Japanese manga series written and illustrated by Eiichiro Oda. It follows the adventures of *Monkey D. Luffy* and his crew, the Straw Hat Pirates, as he explores the Grand Line in search of the mythical treasure known as the "One Piece" to become the next King of the Pirates.
